@@ -32,7 +32,7 @@ p.1p.2p.3p^4
 
 ---
 
-## 📁 Files in This Repo
+##  Files in This Repo
 
 | File Name | Description |
 |-----------|-------------|
@@ -42,7 +42,7 @@ p.1p.2p.3p^4
 
 ---
 
-## 🔧 Installation Options
+##  Installation Options
 
 ### Option 1 – Use the Workbook Directly
 1. Open `Excel Calc Pad.xlsm`.
@@ -59,14 +59,14 @@ p.1p.2p.3p^4
 
 ---
 
-## ⚠️ Notes
+## Notes
 - Macros must be enabled for the shortcuts to work.
-- This is optimized for engineering-style formula entry in Excel cells.
-- Greek letter support includes common symbols like α, β, γ, Δ, etc.
+- This is for engineering-style formula entry in Excel cells.
+
 
 ---
 
-## 📬 Feedback or Suggestions?
+## Suggestions?
 
 Feel free to open an issue or submit a pull request.
 
