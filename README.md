@@ -2,7 +2,6 @@
 
 Excel Calc Pad is a macro-powered Excel utility designed to speed up typing of engineering formulas. It helps you format subscripts, superscripts, and Greek letters quickly using simple syntax and keyboard shortcuts.
 
----
 
 ## How It Works
 
@@ -18,8 +17,6 @@ p.1p.2p.3p^4
 
 
 
----
-
 ### 2. **Greek Letters**
 - Use `,` before a Latin character to convert it to its Greek equivalent.
 - Then press **Ctrl + G** on the selected cell.
@@ -30,7 +27,6 @@ p.1p.2p.3p^4
 ![image](https://github.com/user-attachments/assets/80a4a208-0b4c-465d-99a3-cb025afa9c46)
 
 
----
 
 ##  Files in This Repo
 
@@ -40,7 +36,6 @@ p.1p.2p.3p^4
 | `Copy my contents.txt` | Plain text version of the macros. Copy this into the Visual Basic Editor (`Alt + F11`). |
 | `import me.bas` | Exported VBA module. You can import it into your workbook using the VB Editor: `File > Import File...` |
 
----
 
 ##  Installation Options
 
@@ -57,14 +52,12 @@ p.1p.2p.3p^4
    - Import `import me.bas` (`File > Import File...`).
 4. Save your file as `.xlsm`.
 
----
 
 ## Notes
 - Macros must be enabled for the shortcuts to work.
 - This is for engineering-style formula entry in Excel cells.
 
 
----
 
 ## Suggestions?
 
